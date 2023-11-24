@@ -1,0 +1,3 @@
+mount -n -o remount,rw /
+passwd username
+exec /sbin/init
